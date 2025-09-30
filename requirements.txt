@@ -1,6 +1,7 @@
-pandas
-numpy
+torch
+transformers
+datasets
+evaluate
+accelerate
 scikit-learn
-tensorflow
-matplotlib
-seaborn
+sentencepiece
